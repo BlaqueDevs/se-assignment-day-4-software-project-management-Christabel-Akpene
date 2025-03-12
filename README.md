@@ -91,10 +91,43 @@ Work Breakdown Structure breaks down the project scope into smaller units.
   - It allows for the visualization of task dependencies, showing which tasks need to be completed before others can begin.
   - Gantt charts make it easy to track the progress of individual tasks and the project as a whole.
   - Gantt charts help visualize which tasks can be done simultaneously and which ones need to be done sequentially.
-  - Gantt charts help visualize when resources are needed for each task, which aids in avoiding conflicts and over-allocation of team members. 
+  - Gantt charts help visualize when resources are needed for each task, which aids in avoiding conflicts and over-allocation of team members.
+  - 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+A software which aids in financial literacy.
+The software addresses the following issues:
+- Closing the gap in financial literacy.
+- Creating a personalised budget plan.
+- Tracking dept repayment.
+Why the problems are significant to target audience
+- Financial Security: Many people face financial stress and insecurity, especially if they don't have a clear plan for saving or investing.
+- Educational Gap: Financial literacy is often overlooked in traditional education systems, which can lead to poor decision-making as people enter adulthood. By providing accessible financial tools and educational content, the software empowers users to take control of their financial future.
+- Opportunity for Wealth Building: Without a strategy for investments or savings, people might miss out on wealth-building opportunities. The software’s investment guidance helps users make informed decisions and build wealth over time.
+- 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+- Clearly defining a problem makes testing of the software easier as you know exactly what you are testing for.
+- It also helps in priotizing issues in the software development phase.
+- It also helps to allocate resources and funds in an efficient manner.
+- Solution can be clearly marketed to target audience.
+- Clearly defining the problem ensures that the software is developed faster.
+- 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+FinGuard is your personal financial companion, designed to simplify the way you manage money. Whether you're looking to save for a big goal, get a handle on debt, or just make smarter financial decisions, FinGuard provides you with easy-to-use tools and clear guidance. It helps you track your spending, build a budget, set goals, and plan for life’s big moments, all while boosting your financial knowledge. With FinGuard, you’ll feel more confident about your finances and be empowered to make choices that lead to a secure financial future.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+- Personalised budgeting tools
+- Goal tracking and personalized goal setting based on financial needs.
+- Categorises your expenses and savings.
+- Alerts for financial bills and payments.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+- Increasing demand for financial literacy.
+- Rise in mobile banking and fintech.
+- Growing adoption of digital solutions.
+- 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+- Understanding user needs and growing trends can prioritize features that offer a high degree of customization
+- Recognizing the demand for mobile and accessible solutions can guide the development of a mobile-first interface.
+- Awareness of the growing importance of financial literacy can prioritize educational content within the software.
+- Understanding privacy and security concerns can shape the development of robust security features.
+- Understanding open banking and fintech integration trends can lead to seamless multi-platform connectivity.
